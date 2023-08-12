@@ -9,11 +9,12 @@ header{
 header ul{
 list-style: none;
 display: flex;
-flex-direction: row;
+
 }
 
 header ul li {
     margin: 10px;
+
 }
 img{
         width: 700px;
@@ -31,9 +32,7 @@ img{
     }
 
     .contenedor{
-   display: flex;
-   flex-direction: row;
-   width: 100%;
+     width: 100%;
    margin: 10px o 10px 0;
     background-color: rgb(127, 179, 221); 
    }
